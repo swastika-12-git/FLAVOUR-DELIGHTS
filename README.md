@@ -30,4 +30,4 @@ No installation needed — it's a static site!
   - loginn.html → success.html → food.html → ord.html → done.html
   - Explore a.html (About) and cont.html (Contact)
 
-This project is built entirely with *HTML and CSS*, so you can edit and test it easily on any system without needing a server.
+This project is built entirely with *HTML and Inline CSS*, so you can edit and test it easily on any system without needing a server.
