@@ -27,7 +27,7 @@ No installation needed — it's a static site!
 
 - Open index.html in any modern web browser.
 - Navigate to other pages via the menu or links:
-  - loginn.html → success.html → food.html → ord.html → done.html
+  - start.html → loginn.html → success.html → food.html → ord.html → done.html
   - Explore a.html (About) and cont.html (Contact)
 
 This project is built entirely with *HTML and Inline CSS*, so you can edit and test it easily on any system without needing a server.
