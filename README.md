@@ -5,7 +5,7 @@ A ONLINE FOOD DELIVERY WEBSITE (front-end only)
 
 ## Features
 
-- Fully static site using HTML & CSS
+- Fully static site using HTML & CSS(Inline CSS)
 - Responsive layout for desktop and mobile
 - Image-rich design for visual appeal
 - Group collaboration workflow
