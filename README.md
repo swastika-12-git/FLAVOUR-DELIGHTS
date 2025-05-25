@@ -1,11 +1,11 @@
 # FLAVOUR-DELIGHTS
 A ONLINE FOOD DELIVERY WEBSITE (front-end only)
 
-*FlavourDELIGHTS* is a frontend-only web project designed to showcase a stylish, responsive food-themed interface using only HTML and CSS. Created as a group collaboration, it highlights a range of delightful dishes, trending recipes, popular restaurants and intuitive layout design — without any backend logic.
+*FlavourDELIGHTS* is a frontend-only web project designed to showcase a stylish, responsive food-themed interface using only HTML and Inline CSS. Created as a group collaboration, it highlights a range of delightful dishes, trending recipes, popular restaurants and intuitive layout design — without any backend logic.
 
 ## Features
 
-- Fully static site using HTML & CSS(Inline CSS)
+- Fully static site using HTML & Inline CSS
 - Responsive layout for desktop and mobile
 - Image-rich design for visual appeal
 - Group collaboration workflow
