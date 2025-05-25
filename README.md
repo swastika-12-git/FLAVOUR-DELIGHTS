@@ -12,8 +12,8 @@ A ONLINE FOOD DELIVERY WEBSITE (front-end only)
 
 ## Live Preview
 
-[View Live Site](https://yourusername.github.io/flavourDELIGHTS/)  
-(Replace with actual link after enabling GitHub Pages)
+[View Live Site](https://suchi974.github.io/FLAVOUR-DELIGHTS/)  
+
 
 ## Collaborators
 
