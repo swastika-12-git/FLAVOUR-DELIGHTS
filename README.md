@@ -17,9 +17,9 @@ A ONLINE FOOD DELIVERY WEBSITE (front-end only)
 
 ## Collaborators
 
-- [Teammate 1](https://github.com/suchi974)
-- [Teammate 2](https://github.com/teammate2)
-- [Teammate 3](https://github.com/teammate3)
+- [Suchismita Ghosh](https://github.com/suchi974)
+- [Swastika Biswas](https://github.com/teammate2)
+- [Ankita Dubey](https://github.com/teammate3)
 
 ## How to Use
 
