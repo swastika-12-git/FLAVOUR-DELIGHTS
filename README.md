@@ -31,3 +31,7 @@ No installation needed — it's a static site!
   - Explore a.html (About) and cont.html (Contact)
 
 This project is built entirely with *HTML and Inline CSS*, so you can edit and test it easily on any system without needing a server.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
